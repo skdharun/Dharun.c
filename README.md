@@ -1,1 +1,1 @@
-# Dharun.c
+Student Attendance Monitoring system
